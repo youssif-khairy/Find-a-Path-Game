@@ -1,0 +1,2 @@
+# Find-a-Path-Game
+This game is a type of slide puzzle games that consists of a Board of Blocks: Movable and Fixed blocks. From Fixed blocks there is a Start block and an End block. Also in the board there is Blocks with stars either Fixed or Movable. The Game aims to find a path from Start to End with maximum stars. The movable blocks can move (up, down, left or right) as long there is no constraints.
